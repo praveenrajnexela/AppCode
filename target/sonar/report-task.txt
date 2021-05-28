@@ -1,6 +1,6 @@
-projectKey=com.mkyong.examples:maven-code-coverage
+projectKey=com.mkyong.examp:maven-code-cov
 serverUrl=http://localhost:9000
 serverVersion=8.4.1.35646
-dashboardUrl=http://localhost:9000/dashboard?id=com.mkyong.examples%3Amaven-code-coverage
-ceTaskId=AXO5PGvk_EVQ3n5upeTm
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXO5PGvk_EVQ3n5upeTm
+dashboardUrl=http://localhost:9000/dashboard?id=com.mkyong.examp%3Amaven-code-cov
+ceTaskId=AXlv6Npu4Ufhww70zFuQ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXlv6Npu4Ufhww70zFuQ
