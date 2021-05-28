@@ -14,7 +14,11 @@ public class TestMessageBuilder {
 
     }
 
+<<<<<<< HEAD
  // @Test
+=======
+  @Test
+>>>>>>> 598f7521199b3f557db880812bc4a9d805d9b4eb
     public void testNameEmpty() {
 
         MessageBuilder obj = new MessageBuilder();
